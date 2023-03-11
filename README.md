@@ -78,5 +78,9 @@ www.keepcoding.io
 
 
 ![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)
+ 
+ Enlace a la práctica :
+ 
+ https://gfycat.com/equalmelodicboaconstrictor
 
 </div>
