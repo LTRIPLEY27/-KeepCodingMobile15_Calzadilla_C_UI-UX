@@ -74,10 +74,9 @@ www.keepcoding.io
 
 <h1>  VIDEO DE PRÁCTICA </h1>
 
-<img src="https://gfycat.com/equalmelodicboaconstrictor.gif" width="250" height="250" />
 
 
-![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)
+![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux%20(1).gif)
  
  Enlace a la práctica :
  
