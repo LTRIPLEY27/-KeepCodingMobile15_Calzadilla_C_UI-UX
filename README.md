@@ -76,6 +76,6 @@ www.keepcoding.io
 
 
 
-<img src= ![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif) width="250" height="250"/>
+<img src= "![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)" width="250" height="250"/>
 
 </div>
