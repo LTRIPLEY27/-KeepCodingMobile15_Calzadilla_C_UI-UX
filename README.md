@@ -74,8 +74,9 @@ www.keepcoding.io
 
 <h1>  VIDEO DE PRÁCTICA </h1>
 
+<img src="https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)" width="500" height="500" />
 
 
-<img src= "![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)" width="250" height="250"/>
+![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux_AdobeExpress.gif)
 
 </div>
