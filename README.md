@@ -78,7 +78,7 @@ www.keepcoding.io
 
 ![](https://github.com/LTRIPLEY27/-KeepCodingMobile15_Calzadilla_C_UI-UX/blob/main/entrega_ui_ux%20(1).gif)
  
- Enlace a la práctica :
+ Enlace al video de la práctica con opción HD (Me dió problemas el Github): ---> 
  
  https://gfycat.com/equalmelodicboaconstrictor
 
