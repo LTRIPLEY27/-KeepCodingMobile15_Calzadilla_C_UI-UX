@@ -17,6 +17,7 @@ Dado que Autolayout es una ayuda al diseño, pero se puede crear la UI de una ap
 KeepCoding© All rights reserved.
 www.keepcoding.io
  
+ </div>
  
    No os preocupéis, son unas pantallas que diseñaremos primero en clase, y además, le daremos muchas vueltas en Figma.
 La puntuación de la práctica estará basada en el diseño y utilización de las distintas herramientas de Figma que hemos aprendido durante el módulo.
@@ -35,6 +36,8 @@ normal, focus y error), icono de favorito (con dos estados).
 conocimientos, pero no se valorará como nota.
 8. En la práctica se valorará más el aspecto técnico que el artístico, con lo que si
 decides hacer un diseño distinto eres totalmente libre de hacerlo. Sólo ten en cuenta que es una arma de doble filo: A mayor diferencia y libertad, mayor margen de error en los aspectos técnicos :)
+
+<div>
 Material y recursos que vais a necesitar
 KeepCoding© All rights reserved.
  www.keepcoding.io
